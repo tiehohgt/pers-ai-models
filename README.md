@@ -41,7 +41,7 @@ https://github.com/tiehohgt/pers-ai-models/releases/download/models-v1/Qwen2.5-1
 ## SHA-256
 
 ```text
-БУДЕТ_ДОБАВЛЕНО_ПОСЛЕ_ЗАГРУЗКИ
+1ADF0B11065D8AD2E8123EA110D1EC956DAB4AB038EAB665614ADBA04B6C3370
 ```
 
 ## Лицензия и авторство
